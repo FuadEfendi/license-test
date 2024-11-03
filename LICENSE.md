@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © 2024 Tokenizer Inc., Fuad Efendi
+Copyright © 2024 Fuad Efendi, Tokenizer Inc.
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
