@@ -23,3 +23,26 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
+
+Creative Commons CC BY-NC-ND 4.0
+================================
+
+All files in the `/content` folder are licensed separately under CC-BY-NC-ND-4.0 terms.
+
+The content in this repository, located in the `/content` directory, is licensed under the
+ **Creative Commons Attribution Non Commercial No Derivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+<a property="dct:title" rel="cc:attributionURL" href="https://github.com/MasteryEducation/MyAmazingProject">MyAmazingProject</a>
+
+[MyAmazingProject](https://github.com/MasteryEducation/MyAmazingProject) by [Fuad Efendi](https://github.com/FuadEfendi), [Tokenizer Inc., Canada](https://tokenizer.ca)
+
+ is licensed under
+ 
+ [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+ 
+
+
