@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © 2024 Fuad Efendi, Tokenizer Inc.
+Copyright © 2024 [Fuad Efendi](https://github.com/FuadEfendi), [Tokenizer Inc.](https://tokenizer.ca)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -28,21 +28,8 @@ OTHER DEALINGS IN THE SOFTWARE.
 Creative Commons CC BY-NC-ND 4.0
 ================================
 
-All files in the `/content` folder are licensed separately under CC-BY-NC-ND-4.0 terms.
+Copyright © 2024 [Fuad Efendi](https://github.com/FuadEfendi), [Tokenizer Inc.](https://tokenizer.ca)
 
-The content in this repository, located in the `/content` directory, is licensed under the
- **Creative Commons Attribution Non Commercial No Derivatives 4.0 International (CC BY-NC-ND 4.0)** license.
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
-<a property="dct:title" rel="cc:attributionURL" href="https://github.com/MasteryEducation/MyAmazingProject">MyAmazingProject</a>
-
-[MyAmazingProject](https://github.com/MasteryEducation/MyAmazingProject) by [Fuad Efendi](https://github.com/FuadEfendi), [Tokenizer Inc., Canada](https://tokenizer.ca)
-
- is licensed under
+All files in the `/content` folder and its' subfolders are licensed separately under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![]((https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png))](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
  
- [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
- 
-
 
