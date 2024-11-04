@@ -1,3 +1,21 @@
+<h1 align="center">
+  <a href="https://github.com/MasteryEducation/MyAmazingProject">
+    <!-- Please provide path to your logo here -->
+    <img src="assets/images/logo.png" alt="Logo" width="100" height="100">
+  </a>
+</h1>
+
+<div align="center">
+  MyAmazingProject
+  <br />
+  <a href="#about"><strong>Explore the screenshots »</strong></a>
+  <br />
+  <br />
+  <a href="https://github.com/MasteryEducation/MyAmazingProject/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  ·
+  <a href="https://github.com/MasteryEducation/MyAmazingProject/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  .<a href="https://github.com/MasteryEducation/MyAmazingProject/discussions">Ask a Question</a>
+</div>
 
 ## License
 
