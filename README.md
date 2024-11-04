@@ -150,7 +150,7 @@ The code contained in this repository (excluding content files) is licensed unde
 
 ### Content License: Creative Commons CC BY-NC-ND 4.0
 
-Content files, such as markdown files found in `/content` folder and its subfolders, and simmilar files, are powering content publicly available at [MyAmazingWebsite](https://MyAmazingWebsite) and are licensed separately under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+**Content** files, such as markdown files found in `/content` folder and its subfolders, and simmilar files, are powering the website [MyAmazingWebsite](https://MyAmazingWebsite) and are licensed separately under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
  
 By contributing **content** to this repository, you agree that your contributions are original, that you have the right to contribute them, and that you assign all rights, title, and interest in your contributions to Tokenizer Inc.
 

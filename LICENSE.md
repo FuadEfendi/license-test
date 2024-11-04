@@ -30,7 +30,7 @@ Creative Commons CC BY-NC-ND 4.0
 
 Copyright © 2024 [Fuad Efendi](https://github.com/FuadEfendi), [Tokenizer Inc.](https://tokenizer.ca)
 
-All files in the `/content` folder and its' subfolders are licensed separately under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+All content files such as found in the `/assets` and `/content` folders are licensed separately under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
  
 
 By contributing **content** to this repository, you agree that your contributions are original, that you have the right to contribute them, and that you assign all rights, title, and interest in your contributions to Tokenizer Inc.
