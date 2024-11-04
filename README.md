@@ -14,26 +14,10 @@
   .<a href="https://github.com/MasteryEducation/MyAmazingProject.com/discussions">Ask a Question</a>
 </div>
 
-## License
-
-[![Project license](https://img.shields.io/github/license/MasteryEducation/license-test.svg?style=flat-square)](LICENSE.md)
-
-
-
-This work is dual-licensed under MIT and CC-BY-ND-4.0 (or any later version).
-
-All files in the `/content` folder are licensed under CC-BY-ND-4.0 (or later version), and all the software code and configuration files under MIT.
-
-
-`SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later`
-
-
-
-
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/MasteryEducation/MyAmazingProject.svg?style=flat-square)](LICENSE)
+[![Project license](https://img.shields.io/github/license/MasteryEducation/MyAmazingProject.svg?style=flat-square)](LICENSE.md)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/MasteryEducation/MyAmazingProject/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by MasteryEducation](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-MasteryEducation-ff1414.svg?style=flat-square)](https://github.com/MasteryEducation)
@@ -43,7 +27,6 @@ All files in the `/content` folder are licensed under CC-BY-ND-4.0 (or later ver
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [License](#license)
 - [About](#about)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
@@ -56,7 +39,7 @@ All files in the `/content` folder are licensed under CC-BY-ND-4.0 (or later ver
 - [Contributing](#contributing)
 - [Authors \& contributors](#authors--contributors)
 - [Security](#security)
-- [License](#license-1)
+- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 </details>
