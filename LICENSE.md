@@ -1,5 +1,5 @@
-The MIT License (MIT)
-=====================
+MIT License
+===========
 
 Copyright © 2024 [Fuad Efendi](https://github.com/FuadEfendi), [Tokenizer Inc.](https://tokenizer.ca)
 
@@ -32,4 +32,3 @@ Copyright © 2024 [Fuad Efendi](https://github.com/FuadEfendi), [Tokenizer Inc.]
 
 All files in the `/content` folder and its' subfolders are licensed separately under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
  
-

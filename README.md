@@ -55,18 +55,6 @@
 > Why did you undertake it?
 > You don't have to answer all the questions -- just the ones relevant to your project.
 
-<details>
-<summary>Screenshots</summary>
-<br>
-
-> **[?]**
-> Please provide your screenshots here.
-
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
-
-</details>
 
 ### Built With
 
@@ -141,9 +129,7 @@ _For more information and to report security issues, please refer to our [securi
 
 ## License
 
-This project is licensed under the **MIT license**.
-
-See [LICENSE](LICENSE) for more information.
+See [LICENSE](LICENSE.md) for more information.
 
 ## Acknowledgements
 
