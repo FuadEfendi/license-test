@@ -1,17 +1,17 @@
 <h1 align="center">
-  <a href="https://github.com/MasteryEducation/MyAmazingProject.com">
+  <a href="https://github.com/MasteryEducation/MyAmazingProject">
     <img src="assets/images/logo.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
 <div align="center">
-  <a href="https://MyAmazingProject.com"><strong>MyAmazingProject.com</strong></a>
+  <a href="https://MyAmazingProject"><strong>MyAmazingProject</strong></a>
   <br />
   <br />
-  <a href="https://github.com/MasteryEducation/MyAmazingProject.com/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/MasteryEducation/MyAmazingProject/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/MasteryEducation/MyAmazingProject.com/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .<a href="https://github.com/MasteryEducation/MyAmazingProject.com/discussions">Ask a Question</a>
+  <a href="https://github.com/MasteryEducation/MyAmazingProject/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  .<a href="https://github.com/MasteryEducation/MyAmazingProject/discussions">Ask a Question</a>
 </div>
 
 <div align="center">
@@ -40,6 +40,8 @@
 - [Authors \& contributors](#authors--contributors)
 - [Security](#security)
 - [License](#license)
+  - [Code License: MIT](#code-license-mit)
+  - [Content License: Creative Commons CC BY-NC-ND 4.0](#content-license-creative-commons-cc-by-nc-nd-40)
 - [Acknowledgements](#acknowledgements)
 
 </details>
@@ -54,6 +56,19 @@
 > What is the purpose of your project?
 > Why did you undertake it?
 > You don't have to answer all the questions -- just the ones relevant to your project.
+
+<details>
+<summary>Screenshots</summary>
+<br>
+
+> **[?]**
+> Please provide your screenshots here.
+
+|                               Home Page                               |                               Login Page                               |
+| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+
+</details>
 
 
 ### Built With
@@ -129,7 +144,18 @@ _For more information and to report security issues, please refer to our [securi
 
 ## License
 
+### Code License: MIT
+
+The code contained in this repository (excluding content files) is licensed under the MIT License.
+
+### Content License: Creative Commons CC BY-NC-ND 4.0
+
+Content files, such as markdown files found in `/content` folder and its subfolders, and simmilar files, are powering content publicly available at [MyAmazingWebsite](https://MyAmazingWebsite) and are licensed separately under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+ 
+By contributing **content** to this repository, you agree that your contributions are original, that you have the right to contribute them, and that you assign all rights, title, and interest in your contributions to Tokenizer Inc.
+
 See [LICENSE](LICENSE.md) for more information.
+
 
 ## Acknowledgements
 
