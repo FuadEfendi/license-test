@@ -4,7 +4,7 @@ title_sections: false # when false, remove the sections from the title.
 # title_sections_depth_dir: start # when start, the depth is counting from the root sections.
 
 description: >
-  Empowering Developers to Innovate and Excel.
+  Empowering Mastery Education with 1000+ Free Open-Source Books
 
 code_block_panel:
   max_lines: 100
@@ -38,14 +38,16 @@ hb:
   header:
     brand: MyAmazingProject
     socials:
-      # github: hbstack
-      # twitter: razonyang
-      # rss: true
-      # mastodon: https://techhub.social/@hbstack
+      github: MasteryEducation
+      twitter: TokenizerCA
+      rss: true
   footer:
     powered_by: true
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
+      github: MasteryEducation
+      witter: TokenizerCA
+      rss: true
   terms:
     paginate: 100
   blog:
@@ -163,6 +165,8 @@ hugopress:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
         body-end:
+          cacheable: true
+        hb-footer-end:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
         hb-blog-sidebar:
