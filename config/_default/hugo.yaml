@@ -1,7 +1,7 @@
-baseURL: https://javascripttypescriptbooks.com/
-title: JavaScript & TypeScript Books
+baseURL: https://myamazingproject/
+title: MyAmazingProject
 # Copyright, the {year} is the placeholder of this year.
-copyright: "© 2004-{year} [Tokenizer Inc.](https://tokenizer.ca/) | © {year} [JavaScript & TypeScript Books](https://javascripttypescriptbooks.com/) | All Rights Reserved."
+copyright: "© 2004-{year} [Tokenizer Inc.](https://tokenizer.ca/) | © {year} [MyAmazingProject](https://myamazingproject/) | All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: # true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
 enableRobotsTXT: true
@@ -31,7 +31,6 @@ meta.reading_time: false
 
 
 taxonomies:
-  
   tags: tags
   categories: categories
   series: series

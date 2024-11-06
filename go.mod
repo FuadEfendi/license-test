@@ -3,7 +3,7 @@ module github.com/tokenizer-inc-canada/tokenizer2
 go 1.19
 
 require (
-	github.com/GoogleChrome/workbox v7.2.0+incompatible // indirect
+	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.11 // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
@@ -11,7 +11,7 @@ require (
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/base v0.6.2 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.38.0 // indirect
+	github.com/hbstack/blog v0.38.1 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.23 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
@@ -43,7 +43,7 @@ require (
 	github.com/hbstack/footer/modules/socials v0.3.0 // indirect
 	github.com/hbstack/giscus v0.1.1 // indirect
 	github.com/hbstack/hb v0.15.3 // indirect
-	github.com/hbstack/header v0.16.3 // indirect
+	github.com/hbstack/header v0.16.4 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.26 // indirect
 	github.com/hbstack/header/modules/search v0.1.38 // indirect
 	github.com/hbstack/header/modules/socials v0.2.1 // indirect
@@ -68,7 +68,7 @@ require (
 	github.com/henrygd/bigger-picture v1.1.17 // indirect
 	github.com/hugomods/ascii v0.1.0 // indirect
 	github.com/hugomods/base v0.7.2 // indirect
-	github.com/hugomods/bootstrap v0.22.3 // indirect
+	github.com/hugomods/bootstrap v0.23.0 // indirect
 	github.com/hugomods/code-block-panel v0.7.1 // indirect
 	github.com/hugomods/font-awesome v6.6.0+incompatible // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
@@ -77,18 +77,18 @@ require (
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.5.0 // indirect
 	github.com/hugomods/i18n-js v0.2.1 // indirect
-	github.com/hugomods/icons v0.6.5 // indirect
+	github.com/hugomods/icons v0.6.6 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.8 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.9 // indirect
-	github.com/hugomods/icons/vendors/simple-icons v1.0.58 // indirect
+	github.com/hugomods/icons/vendors/simple-icons v1.0.59 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
 	github.com/hugomods/katex v0.3.3 // indirect
 	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
-	github.com/hugomods/search v0.18.1 // indirect
-	github.com/hugomods/search-index v0.1.0 // indirect
+	github.com/hugomods/search v0.18.3 // indirect
+	github.com/hugomods/search-index v0.1.1 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.1 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.2 // indirect

@@ -27,7 +27,6 @@ main:
 
   - name: Expert
     identifier: expert
-    url: "/expert/"
     weight: 3
     params:
       icon:
