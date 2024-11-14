@@ -100,11 +100,13 @@ hb:
       #category_id: DIC_kwDOJP3qtM4CVavM
   docs:
     #https://hugomods.com/docs/comment-engines/giscus/
+    #https://github.com/apps/giscus
+    #https://giscus.app/#repository
     giscus:
-      repo: MasteryEducation/MyAmazigProject
-      repo_id: R_kgDONJh4uw
+      repo: MasteryEducation/FunctionalProgrammingMastery.com
+      repo_id: R_kgDONJc1pA
       category: Announcements
-      category_id: DIC_kwDONJh4u84CkC04
+      category_id: DIC_kwDONJc1pM4CkJzd
       mapping: title
       strict_matching: true
       input_position: top
