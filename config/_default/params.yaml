@@ -103,7 +103,7 @@ hb:
     #https://github.com/apps/giscus
     #https://giscus.app/#repository
     giscus:
-      repo: MasteryEducation/FunctionalProgrammingMastery.com
+      repo: MasteryEducation/MyAmazingProject
       repo_id: R_kgDONJc1pA
       category: Announcements
       category_id: DIC_kwDONJc1pM4CkJzd
